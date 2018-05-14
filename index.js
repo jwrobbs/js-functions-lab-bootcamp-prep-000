@@ -11,5 +11,5 @@ function happyHolidayTo(string1,string2) {
 }
 function holidayCountdown(string1,string2) {
   
-  `It's ${string2} days until ${string1}!`
+  `It\'s ${string2} days until ${string1}!`
 }
