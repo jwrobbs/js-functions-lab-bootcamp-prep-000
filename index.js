@@ -9,7 +9,7 @@ function happyHolidaysTo(string) {
 function happyHolidayTo(string1,string2) {
   return `Happy ${string1}, ${string2}`
 }
-function holidayCountdown() {
+function holidayCountdown(string1,string2) {
   
-  return 1It's 
+  `It's ${string1} days until ${string2}!`
 }
